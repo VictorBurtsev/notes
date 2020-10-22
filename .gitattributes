@@ -1,3 +1,4 @@
-README.md filter=git-crypt diff=git-crypt
 vl_burtsev.dump filter=git-crypt diff=git-crypt
+key filter=git-crypt diff=git-crypt
+Passwords.kdbx filter=git-crypt diff=git-crypt
 

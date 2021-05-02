@@ -8,3 +8,4 @@ vl_burtsev.crt filter=git-crypt diff=git-crypt
 vl_burtsev.key filter=git-crypt diff=git-crypt
 vl_burtsev.pass filter=git-crypt diff=git-crypt
 cfg/** filter=git-crypt diff=git-crypt
+python/** filter=git-crypt diff=git-crypt

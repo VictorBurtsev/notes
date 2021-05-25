@@ -1,6 +1,6 @@
 vl_burtsev.dump filter=git-crypt diff=git-crypt
 passwords.kdbx filter=git-crypt diff=git-crypt
-key filter=git-crypt diff=git-crypt
+passwords filter=git-crypt diff=git-crypt
 bingo.cfg filter=git-crypt diff=git-crypt
 bingo.ovpn filter=git-crypt diff=git-crypt
 ca.crt filter=git-crypt diff=git-crypt
